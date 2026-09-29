@@ -1,0 +1,2 @@
+# ai
+buat ai
